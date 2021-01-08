@@ -1,5 +1,14 @@
-#Animated Login & Signup Page
+## ✍🏻 Project
+Fully responsive animated login and signup page with background transition effect    
 
-## Demo
+<p align = "center">
+  <img src = "gif.gif" width = "100%" />
+</p>
 
-[![Demo](https://j.gifs.com/ANRN09.gif)]
+## 🚩 This project was developed with
+- HTML
+- CSS
+- JS
+
+## 🎨 Preview
+Check out the live preview here → [Page Demo](https://yd2xw.csb.app/)
