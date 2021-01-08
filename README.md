@@ -2,7 +2,7 @@
 Fully responsive animated login and signup page with background transition effect    
 
 <p align = "center">
-  <img src = "gif.gif" width = "100%" />
+  <img src = "demo.gif" width = "100%" />
 </p>
 
 ## 🚩 This project was developed with
